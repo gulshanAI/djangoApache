@@ -25,7 +25,7 @@ Media Path "/home/user/djangoProjects/touchmediaads/media"
     e.g : "example.com"
 
 5. Enter Root Path 
-    e.g : "/home/user/project_name"
+    e.g : "/home/user/djangoProjects"
 
 6. Enter Static folder name
     e.g : "static"
